@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sergeyyarkov/digital-store.git"
+    "url": "git+https://github.com/serikbeissov/digital-store.git"
   },
   "author": "Sergey Yarkov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sergeyyarkov/digital-store/issues"
+    "url": "https://github.com/serikbeissov/digital-store/issues"
   },
-  "homepage": "https://github.com/sergeyyarkov/digital-store#readme",
+  "homepage": "https://github.com/serikbeissov/digital-store#readme",
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
     "@qiwi/bill-payments-node-js-sdk": "^3.1.3",
